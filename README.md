@@ -4,11 +4,8 @@
 # Linkedin Activity: https://lnkd.in/p/gucfqvyH , https://lnkd.in/p/gT-6tB7y , https://lnkd.in/p/ghzxy5r8
 # View Tutorial on Youtube: https://youtu.be/AlVW02vPPJw , https://youtu.be/ECNBEARj1Xo , https://youtu.be/tfBv7sao9PA
 
-**Three real-world troubleshooting walkthroughs based on the Section 4 labs and hands-on exercises of the *AWS Certified Generative AI Developer – Professional***
-
 ### 1: Bedrock Agent Can't Call Its Action Group Lambda
 
-**Related lab:** Hands On: Amazon Bedrock Agents Classic (Section 4)
 **Concepts:** LLM agents, action groups, AWS Lambda, resource-based policies, agent versions and aliases, trace
 
 ### Scenario
